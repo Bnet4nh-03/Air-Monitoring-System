@@ -13,3 +13,8 @@
 | **I2C LCD Module**  | SDA            | D21                      |
 |                     | SCL            | D22                      |
 | **Nguồn (Jack DC)** | VIN            | 5V input (Jack DC)       |
+
+![Sơ đồ khối](images/image.png)
+
+![Sơ đồ hoạt động hệ thống](images/harley.png)
+
