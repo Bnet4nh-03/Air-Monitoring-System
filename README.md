@@ -5,11 +5,11 @@
 	
 | Thiết bị            | Chân Thiết Bị   | Kết nối đến Chân ESP32  |
 |---------------------|----------------|--------------------------|
-| **MQ7**             | A0             | D36 (VP)                 |
-| **LDR**             | A0             | D39 (VN)                 |
-| **DHT11**           | DATA           | D15                      |             
-| **PMS7003**         | TX             | D16 (RX2)                |
-|                     | RX             | D17 (TX2)                |         
+| **MQ7**             | A0             | D34                      |
+| **LDR**             | A0             | D33                      |
+| **DHT11**           | DATA           | D4                       | 
+| **PMS7003**         | TX             | D16 (RX0)                |
+|                     | RX             | D17 (TX0)                | 
 | **I2C LCD Module**  | SDA            | D21                      |
 |                     | SCL            | D22                      |
 | **Nguồn (Jack DC)** | VIN            | 5V input (Jack DC)       |
